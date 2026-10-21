@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from azure.identity import DefaultAzureCredential
 from azure.ai.projects import AIProjectClient
 
-load_dotenv()
+load_dotenv()az
 
 endpoint = os.getenv("AZURE_AI_ENDPOINT")
 deployment = os.getenv("AZURE_AI_DEPLOYMENT")

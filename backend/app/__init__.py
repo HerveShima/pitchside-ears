@@ -1,0 +1,1 @@
+"""Pitchside Ears backend application."""
